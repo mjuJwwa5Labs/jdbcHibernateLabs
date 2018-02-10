@@ -1,4 +1,4 @@
-package sda.oder.entity;
+package sda.order.entity;
 
 public class OrderItem {
 
@@ -6,6 +6,4 @@ public class OrderItem {
     private Product product;
     private Integer quantity;
 
-    public OrderItem() {
-    }
 }

@@ -1,4 +1,4 @@
-package sda.oder.entity;
+package sda.order.entity;
 
 public enum OrderStatus {
 
